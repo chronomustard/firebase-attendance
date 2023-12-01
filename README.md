@@ -36,6 +36,15 @@ Ensure the following prerequisites are installed:
 
 3. Obtain the required dlib models from the [Google Drive link](https://drive.google.com/drive/folders/12It2jeNQOxwStBxtagL1vvIJokoz-DL4?usp=sharing) and place the 'data' folder within the cloned repository. This is essential in case the dlib models from the git repository are corrupted or inaccessible.
 
+### Tested Environments
+
+This project has been tested on the following operating systems and Python versions:
+
+- **Windows 11** with Python 3.9
+- **Ubuntu 16** with Python 3.7
+
+The system has been successfully tested on these environments to ensure compatibility and functionality.
+
 ### Additional Installation Notes
 
 - **Windows**: For dlib installation on Windows, download it from [sachadee/Dlib](https://github.com/sachadee/Dlib), ensuring compatibility with your Python version (3.7, 3.8, or 3.9). Consider using conda for a smoother installation process.
